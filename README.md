@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Gabrielle Smith</h1>
 
-<h3 align="center"> Master of Environmental Data Science Candidate</h3>
+<h3 align="center"> Master of Environmental Data Science</h3>
 
 <br>
 
