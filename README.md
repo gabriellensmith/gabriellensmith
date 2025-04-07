@@ -10,13 +10,13 @@
 
 🔗 **LinkedIn:** [gabriellesmith](https://www.linkedin.com/in/gabrielle-smith-38a6a31a3/) 
 
-📫 **Contact me:** [gabriellesmith@ucsb.edu](mailto:gabriellesmith@ucsb.edu)
+📫 **Contact me:** [gabrielle.n.smith15@gmail.com](mailto:gabrielle.n.smith15@gmail.com)
 
 ### Who am I? 
 
-I recently graduated with a [Master's of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) from the Bren School of Environmental Science & Management at the University of California, Santa Barbara. I hope to use the skills I gained in my education to contribute to a more sustainable and equitable future by applying data-driven solutions to environmental issues! 
+I'm a geospatial data engineer with a background in environmental data sceince, driven by a passion for applying data and technology to address climate and sustainability challenges. At Climate Engine, I leveraged geospatial analysis to support climate resilience efforts a variety of applications including water, wildfire, extreme weather, and biodiversity. Prior to that, I earned a [Master's of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science/academics-meds) (MEDS) from the Bren School of Environmental Science & Management at the University of California, Santa Barbara, where I focused on the intersection of data science and environmental problem-solving. I'm eager to continue using my skills to create impactful, equitable solutions for a changing planet.
 
-In my free time, I enjoy cooking, playing beach volleyball, and reading historical fiction! 
+In my free time, I enjoy cooking, exercising, and reading historical fiction! 
 
 ### Education
 
